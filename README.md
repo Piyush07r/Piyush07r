@@ -21,13 +21,17 @@ Other Expertise: Linux & Windows Administration | Discovery & Assessment (Concie
 📜 Certifications
 
 AWS Certified Solutions Architect – Associate
+
 AWS Certified  Cloud Practioner 
+
 Oracle Certified AI Foundations Associate
+
 Azure Fundamentals ( AZ-900 )
+
 Docker (Basic to Advanced)
+
 Concierto Migrate – Cloud Migration & Readiness Assessment
-Scripting for Security with Bash
-AWS Infrastructure with TypeScript (Getting Started & Managing)
+
 
 🌱 What I’m Exploring
 
