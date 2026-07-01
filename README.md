@@ -1,53 +1,29 @@
-👋 Hi, I’m Piyush Kumar Singh
 
-🚀 Tech Enthusiast | Cloud & DevOps Engineer
+Piyush Kumar Singh
+Cloud & DevOps Engineer — AWS infrastructure · CI/CD pipelines · Enterprise migrations
 
-I’m passionate about building scalable cloud infrastructures, automating workflows, and turning data into insights.
+LinkedIn   Email   Resume   Profile views
+I'm a Cloud & DevOps Engineer based in Bangalore who enjoys turning messy infrastructure into clean, automated systems. Currently at Trianz, I work with Fortune 500 clients on enterprise AWS migrations — the kind where uptime and cost both matter.
 
-🔧 Tech Stack & Skills
+⚡ Currently
+At work: Driving AWS cloud migration pipelines for enterprise clients across healthcare, finance, and telecom
+Building: Extending Ephemeral Deploy with EKS and Helm-based deployments
+Exploring: Kubernetes, ArgoCD, and GitOps patterns on top of the existing Terraform + ECS stack
+Next cert: AWS DevOps Engineer Professional
+🛠️ Tech Stack
+Cloud
 
-Cloud Platforms: AWS ☁️ | Azure 🌐 | Oracle Cloud
+AWS EC2 ECS RDS S3 Lambda CloudWatch
 
-Infrastructure as Code: Terraform 
+IaC & CI/CD
 
-Programming & Scripting: Python 🐍 | C++ |  Shell 
+Terraform CloudFormation Ansible GitHub Actions GitLab CI
 
-Containerization : Docker
+Containers & Observability
 
-Data & Analytics: Excel | Power BI ( Basics )
+Docker Prometheus Grafana
 
-Other Expertise: Linux & Windows Administration | Discovery & Assessment (Concietro)
+Scripting & OS
 
-📜 Certifications
+Python Bash Linux Git
 
-AWS Certified Solutions Architect – Associate
-
-AWS Certified  Cloud Practioner 
-
-Oracle Certified AI Foundations Associate
-
-Azure Fundamentals ( AZ-900 )
-
-Docker (Basic to Advanced)
-
-Concierto Migrate – Cloud Migration & Readiness Assessment
-
-
-🌱 What I’m Exploring
-
-Advanced Kubernetes with Terraform
-
-Serverless Architectures
-
-AI-driven Cloud Automation
-
-📫 Let’s Connect
-
-💼 LinkedIn  : https://www.linkedin.com/in/piyush-kumar-singh-03b6081b7/
-
-📧 piyush07r@gmail.com
-
-<!---
-Piyush07r/Piyush07r is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
